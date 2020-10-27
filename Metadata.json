@@ -1,0 +1,20 @@
+{
+    "Author": "Andreas Wieberneit (MSFT)",
+    "ContentSize": 2754,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-a-new-secret-to-a-key-vault/master/New-KeyVaultSecret.ps1",
+    "DownloadCount": 959,
+    "Id": "Add-a-new-secret-to-a-Key-a2871209",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 143,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook shows how to add a secret to a Key Vault. It requires an Azure Run As account and additional modules, see the PREREQUISITE sections in the runbook for details. The runbook will use the Run As account to authenticate against the Key Vault. The Key Vault's access",
+    "Title": "Add a new secret to a Key Vault",
+    "UpdatedDate": "2016-4-16T00:00:00",
+    "Url": "https://github.com/azureautomation/add-a-new-secret-to-a-key-vault",
+    "UserTags": "Utility, Dev / Test Environments"
+}
